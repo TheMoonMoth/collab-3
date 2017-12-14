@@ -29,3 +29,6 @@ You should create an array of numbers in a Javascript file, if there isn't one. 
 
 ### Task 6: Kyle
 You should create a new CSS file. Link to it from one of your HTML files.
+
+### Task 7: Paul
+You should create a new CSS file. Link to it from one of your HTML files.
