@@ -23,3 +23,6 @@ You should edit an HTML file. Add a recipe that you like using lists.
 
 ### Task 4: Kyle
 You should create a new HTML file. Link to it from index.html
+
+### Task 5: Paul
+You should create an array of numbers in a Javascript file, if there isn't one. Write a function that generates a sum.
