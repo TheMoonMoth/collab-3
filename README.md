@@ -9,5 +9,11 @@ Work with a partner to edit a project and manage your changes with git.
 4. Once you've completed one task, slack your partner to start theirs. Do this 5 times.
 5. When you complete the process with working code, you should both submit the link to the repo.
 
+## Style:
+We are using the feature branching style to get extra practice with git branches.
+
 ### Task 1: Paul
 Slack your partner. You should both edit five CSS properties, please.
+
+### Task 2: Kyle
+You should edit five CSS properties.
