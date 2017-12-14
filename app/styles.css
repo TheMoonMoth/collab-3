@@ -21,3 +21,11 @@ nav a {
   color: darkgrey;
   font-size:
 }
+
+p {
+  color: green;
+  border: 2px solid red;
+  background-color: hsl(0, 0%, 80%);
+  border-radius: 50%;
+  font-size: .8rem;
+}
