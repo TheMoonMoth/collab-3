@@ -38,3 +38,6 @@ You should edit an HTML file. Add a paragraph about something you like.
 
 ### Task 9: Paul
 You should remove a file other than index.html.
+
+### Task 10: Kyle
+You should create an array of objects. Each object should have a name and age.
