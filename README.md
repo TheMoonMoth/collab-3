@@ -17,3 +17,6 @@ Slack your partner. You should both edit five CSS properties, please.
 
 ### Task 2: Kyle
 You should edit five CSS properties.
+
+### Task 3: Paul
+You should edit an HTML file. Add a recipe that you like using lists.
