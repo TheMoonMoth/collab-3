@@ -27,3 +27,11 @@ nav a {
   color: rgb(23, 149, 173);
   font-size: 2rem;
 }
+
+p {
+  color: green;
+  border: 2px solid red;
+  background-color: hsl(0, 0%, 80%);
+  border-radius: 50%;
+  font-size: .8rem;
+}
