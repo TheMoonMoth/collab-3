@@ -32,3 +32,6 @@ You should create a new CSS file. Link to it from one of your HTML files.
 
 ### Task 7: Paul
 You should create a new CSS file. Link to it from one of your HTML files.
+
+### Task 8: Kyle
+You should edit an HTML file. Add a paragraph about something you like.
