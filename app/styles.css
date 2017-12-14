@@ -1,5 +1,10 @@
 body {
-  background-color: rgb(251, 250, 136)
+  background-color: rgb(251, 250, 136);
+  font-size: 2rem;
+  font-family: sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  line-height: normal;
 }
 
 header {
